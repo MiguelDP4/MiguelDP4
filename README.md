@@ -4,7 +4,7 @@
 
 
 ## Hello world!
-  I'm a full-stack web developer. I enrolled in the microverse program to learn web development and I loved it. I'm currently looking for job offers.
+  I'm a full-stack web developer. I enrolled in the microverse program to learn web development and I loved it. I'm currently available for hire.
   
 ## About me
 
