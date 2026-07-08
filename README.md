@@ -1,7 +1,4 @@
 # Miguel Dubois
-<img src="https://github-readme-stats.vercel.app/api?username=migueldp4&show_icons=true" width=51% align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldp4&exclude_repo=catalogue-statistics&layout=compact" width=51% align="right">
-
 
 ## Hello world!
   I'm a full-stack web developer. I enrolled in the microverse program to learn web development and I loved it. I'm currently available for hire.
