@@ -88,11 +88,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=migueldp4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Miguel's GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldp4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/MiguelDP4">
+  <img src="https://streak-stats.demolab.com/?user=migueldp4&theme=tokyonight&hide_border=true" alt="Miguel's GitHub Streak & Contributions" />
+</a>
 
 </div>
 
